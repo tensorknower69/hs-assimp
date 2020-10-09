@@ -8,3 +8,4 @@ cabal-dev
 *_flymake.hs
 .cabal-sandbox
 cabal.sandbox.config
+*.swp
