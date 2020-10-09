@@ -64,7 +64,7 @@ library
                        Bindings.Assimp.Scene
                        Bindings.Assimp.Import
 
-  -- include-dirs:
+  include-dirs:        cbits
 
   -- Modules included in this library but not exported.
   -- other-modules:
